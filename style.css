@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+}
+
+#search_engine {
+    background-color: cornsilk;
+    height: 550px;
+z-index: 9;
+}
+
+.links {
+    list-style: none;
+    display: inline;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 140px;
+    font-size: 25px;
+    color: coral;
+
+}
+
+.links:hover {
+    font-size: 30px;
+    color: blue;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+h1 {
+    font-weight: bolder;
+    font-size: 30px;
+    text-shadow: 2px 2px grey;
+}
+
+#cartoons {
+    background-color: mediumpurple;
+    height: 67 0px;
+}
+
+.line {
+    background-color: black;
+    height: 10px;
+    width: 100px;
+    margin-left: 700px;
+}
+
+#beauty {
+    background-color: darkmagenta;
+    height: 650px;
+}
+.menu{
+    position: fixed;
+z-index: 10;
+top: 0;
+margin-top: 0px;
+
+}
+#coding{
+    background-color: darkorange;
+
+}
